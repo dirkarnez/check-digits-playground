@@ -1,5 +1,5 @@
-# check-digits-playground
-=========================
+check-digits-playground
+=======================
 ### TODOs
 - [ ] HKID
 - [ ] ISBN
